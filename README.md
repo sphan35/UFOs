@@ -15,3 +15,13 @@ Building webpages with JavaScript
 - If we were to go further with the filter, two filters could also be applied to search for UFO sightings in el cajon on that occcured on the date "1/4/2010". 
 
 ![](images/UFO_two_filters.png)
+
+## Summary
+- Creating such a responsive webpage with a dynamic table that tailored to one's curiosity with the usage of filters was an amazing experience. Seeing the relationship and connectivity between javaScript and HTML demonstrated the power of coding to create a visual for users. 
+- Drawback of this webpage
+  - A drawback I encountered with this project and the overall webpage was knowing how to orient the various frames of the data. At times during the project, my filter rows or boxes wouldn't line up correctly and it would be a process to figure out where in the HTML code I had gone wrong. Additionally, figuring out the functions of HTML to make the text white in the dark background wasn't clearly stated in the instructions. Thus, a lot of tinkering and googling was my biggest pet-peeve of this webpage creating. 
+  
+- Two recommendations for further development
+    1. A recommendation I would suggest to improve the webpage would be possibly including more features to the webpage so that there is less white space, or in the webpage's case, dark space. Theres a rectangular section of the webpage that has nothing in it, and possibly adding more images or links to other UFO sites would be a cool add-on for the webpage.
+    
+    2. Another recommendation I could make for further development would be adding code that would address what happens in the dynamic table if a filter search doesn't match any data. For example, if someone types in el cajon in the "Enter a City" and 1/10/2010 in the "Enter Date" filter, nothing appears. Adding code that pops up a message like "No UFO Sighting here" would make the dynamic table more dynamic. Also, possibly fixing case sensitivity in the code would be an even better suggestion because search results for "El Cajon" doesn't register with the present code. 
